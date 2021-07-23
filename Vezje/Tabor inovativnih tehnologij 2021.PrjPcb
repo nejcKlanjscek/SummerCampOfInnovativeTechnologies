@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=
+OutputPath=Project Outputs for Tabor inovativnih tehnologij 2021
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -108,6 +108,202 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Design Rule Check - Tabor inovativnih tehnologij 2021.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\NC Drill\Tabor inovativnih tehnologij 2021-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\NC Drill\Tabor inovativnih tehnologij 2021-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\NC Drill\Tabor inovativnih tehnologij 2021.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\NC Drill\Tabor inovativnih tehnologij 2021.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.REP
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.REP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.REP
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.RUL
+DItemRevisionGUID=
+
 [Parameter1]
 Name==DrawnBy
 Value=Nejc Klanjšček
@@ -159,7 +355,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Tabor inovativnih tehnologij 2021
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -372,20 +568,20 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=CompositeDrill
+OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Drill
+OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=Board Stack Report
+OutputName3=Report Board Stack
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
@@ -396,48 +592,56 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Gerber X2
+OutputName5=Gerber X2 Files
 OutputDocumentPath5=
-OutputVariantName5=[No Variations]
+OutputVariantName5=
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Mask
+OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=NC Drill
+OutputName8=NC Drill Files
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+Configuration8_Name1=ForceUpdateSettings
+Configuration8_Item1=False
+Configuration8_Name2=OutputConfigurationParameter1
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes|DocumentPath=E:\Nejc Data\Projects\SummerCampOfInnovativeTechnologies\Vezje\Tabor inovativnih tehnologij 2021.PcbDoc
+OutputType9=IPC2581
+OutputName9=IPC-2581 Files
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+OutputType10=Plane
+OutputName10=Power-Plane Prints
 OutputDocumentPath10=
-OutputVariantName10=[No Variations]
+OutputVariantName10=
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType11=Test Points
+OutputName11=Test Point Report
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
+Configuration12_Name1=ForceUpdateSettings
+Configuration12_Item1=False
+Configuration12_Name2=OutputConfigurationParameter1
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=E:\Nejc Data\Projects\SummerCampOfInnovativeTechnologies\Vezje\Tabor inovativnih tehnologij 2021.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs

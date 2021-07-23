@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : PCB Document [Tabor inovativnih tehnologij 2021.PcbDoc]
+   Generated File[Tabor inovativnih tehnologij 2021.GTO]
+   Generated File[Tabor inovativnih tehnologij 2021.GTP]
+   Generated File[Tabor inovativnih tehnologij 2021.GTS]
+   Generated File[Tabor inovativnih tehnologij 2021.GTL]
+   Generated File[Tabor inovativnih tehnologij 2021.GBL]
+   Generated File[Tabor inovativnih tehnologij 2021.GBS]
+   Generated File[Tabor inovativnih tehnologij 2021.GBP]
+   Generated File[Tabor inovativnih tehnologij 2021.GBO]
+   Generated File[Tabor inovativnih tehnologij 2021.GM2]
+   Generated File[Tabor inovativnih tehnologij 2021.RUL]
+   Generated File[Tabor inovativnih tehnologij 2021.EXTREP]
+   Generated File[Tabor inovativnih tehnologij 2021.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 14:09:05 On 23/07/2021
