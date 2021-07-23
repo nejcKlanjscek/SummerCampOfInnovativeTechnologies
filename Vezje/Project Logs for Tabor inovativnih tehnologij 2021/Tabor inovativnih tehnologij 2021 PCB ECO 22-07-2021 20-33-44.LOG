@@ -1,0 +1,114 @@
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=DETEKTOR VLAŽNOSTI Pin=C19-2
+Removed Pin From Net: NetName=NetIC4_1 Pin=R28-1
+Removed Pin From Net: NetName=NetIC4_10 Pin=R28-2
+Removed Pin From Net: NetName=NetIC4_10 Pin=R29-1
+Removed Pin From Net: NetName=GND Pin=R29-2
+Removed Pin From Net: NetName=+5V Pin=R30-2
+Removed Pin From Net: NetName=NetIC4_3 Pin=R31-2
+Removed Pin From Net: NetName=NetIC4_8 Pin=R32-1
+Removed Pin From Net: NetName=DETEKTOR VLAŽNOSTI Pin=R32-2
+Removed Pin From Net: NetName=GND Pin=R33-1
+Removed Pin From Net: NetName=NetIC4_5 Pin=R34-1
+Removed Pin From Net: NetName=NetIC4_8 Pin=R35-1
+Removed Pin From Net: NetName=NetIC4_9 Pin=R35-2
+Removed Pin From Net: NetName=NetIC4_6 Pin=R36-1
+Removed Pin From Net: NetName=NetIC4_9 Pin=R36-2
+Added Component: Designator=C?(CAPC500P450250X550)
+Added Component: Designator=C?(CAPC500P450250X550)
+Added Component: Designator=R?(RESTH_AXIAL-1/8W)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k?"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESTH_AXIAL-1/8W)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k?"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESTH_AXIAL-1/8W)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M?"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESTH_AXIAL-1/8W)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220k?"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESTH_AXIAL-1/8W)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k?"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESTH_AXIAL-1/8W)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220k?"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESTH_AXIAL-1/8W)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220k?"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESTH_AXIAL-1/8W)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k?"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESTH_AXIAL-1/8W)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220k?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DETEKTOR VLAŽNOSTI Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=+5V Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=NetIC4_3 Pin=R?-1
+Added Pin To Net: NetName=NetIC4_8 Pin=R?-1
+Added Pin To Net: NetName=NetIC4_8 Pin=R?-1
+Added Pin To Net: NetName=NetIC4_9 Pin=R?-1
+Added Pin To Net: NetName=NetIC4_10 Pin=R?-1
+Added Pin To Net: NetName=DETEKTOR VLAŽNOSTI Pin=R?-2
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=NetIC4_1 Pin=R?-2
+Added Pin To Net: NetName=NetIC4_5 Pin=R?-2
+Added Pin To Net: NetName=NetIC4_6 Pin=R?-2
+Added Pin To Net: NetName=NetIC4_9 Pin=R?-2
+Added Pin To Net: NetName=NetIC4_10 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Net: Name=NetC?_1

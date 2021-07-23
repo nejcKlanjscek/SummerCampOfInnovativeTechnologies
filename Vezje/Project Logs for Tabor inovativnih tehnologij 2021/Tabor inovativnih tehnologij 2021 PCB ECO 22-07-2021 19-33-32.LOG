@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=NetC14_2 Pin=R22-1
+Removed Pin From Net: NetName=+9V Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=R26-1
+Removed Pin From Net: NetName=NetC14_2 Pin=R26-2
+Change Component Footprint: Designator=R22 Old Footprint=RESTH_AXIAL-0.4 New Footprint=RESTH_AXIAL-1/8W
+Change Component Footprint: Designator=R23 Old Footprint=RESTH_AXIAL-0.4 New Footprint=RESTH_AXIAL-1/8W
+Change Component Footprint: Designator=R24 Old Footprint=RESTH_AXIAL-0.4 New Footprint=RESTH_AXIAL-1/8W
+Change Component Footprint: Designator=R25 Old Footprint=RESTH_AXIAL-0.4 New Footprint=RESTH_AXIAL-1/8W
+Change Component Footprint: Designator=R26 Old Footprint=RESTH_AXIAL-0.4 New Footprint=RESTH_AXIAL-1/8W
+Change Component Comment : Designator=R22 Old Comment=Carbon Film New Comment=RES_NL_1/8W
+Change Component Comment : Designator=R23 Old Comment=Carbon Film New Comment=RES_NL_1/8W
+Change Component Comment : Designator=R24 Old Comment=Carbon Film New Comment=RES_NL_1/8W
+Change Component Comment : Designator=R25 Old Comment=Carbon Film New Comment=RES_NL_1/8W
+Change Component Comment : Designator=R26 Old Comment=Carbon Film New Comment=RES_NL_1/8W
+Change Component Kind : Designator=R26 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R25 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R24 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R23 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R22 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "R22" ("R22"); Footprint = "RESTH_AXIAL-0.4"; UniqueID = "\HUHFSWVC" ("\HUHFSWVC")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R23" ("R23"); Footprint = "RESTH_AXIAL-0.4"; UniqueID = "\IRIYVJSG" ("\IRIYVJSG")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7M?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R24" ("R24"); Footprint = "RESTH_AXIAL-0.4"; UniqueID = "\QRNMLVVB" ("\QRNMLVVB")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "30?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R25" ("R25"); Footprint = "RESTH_AXIAL-0.4"; UniqueID = "\YSPODFBY" ("\YSPODFBY")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k?"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R26" ("R26"); Footprint = "RESTH_AXIAL-0.4"; UniqueID = "\XBFZBQRL" ("\XBFZBQRL")
+Change component parameters (AddParameter): Name = "Manufacturer 1"; Value = "Royal Ohm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "2010 (5025 metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "1/10 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7k?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+9V Pin=R22-1
+Added Pin To Net: NetName=NetC14_2 Pin=R22-2
+Added Pin To Net: NetName=NetC14_2 Pin=R26-1
+Added Pin To Net: NetName=GND Pin=R26-2

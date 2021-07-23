@@ -1,0 +1,18 @@
+Added Component: Designator=TP?(TP-THT-MULTI)
+Add component (AddParameter): Name = "Description 1"; Value = "TEST POINT PC MULTI PURPOSE YEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "5014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base, Nylon 46, UL 94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.063" (1.600mm) Hole Diameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "5014K-ND"; VariantName = "[No Variations]"
+Added Component: Designator=TP?(TP-THT-MULTI)
+Add component (AddParameter): Name = "Description 1"; Value = "TEST POINT PC MULTI PURPOSE YEL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "5014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Base, Nylon 46, UL 94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "0.063" (1.600mm) Hole Diameter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "5014K-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+9V Pin=TP?-1
+Added Pin To Net: NetName=GND Pin=TP?-1

@@ -1,0 +1,8 @@
+Added Component: Designator=C?(CAPC500P450250X550)
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=R24-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=D4-A
+Added Pin To Net: NetName=NetC?_2 Pin=D5-K
+Added Net: Name=NetC?_2

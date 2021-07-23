@@ -1,0 +1,3 @@
+Added Component: Designator=MIC?(ABM-707-RC)
+Added Pin To Net: NetName=NetC4_1 Pin=MIC?-1
+Added Pin To Net: NetName=GND Pin=MIC?-2

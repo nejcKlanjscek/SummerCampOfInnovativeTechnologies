@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=DETEKTOR VLAŽNOSTI Pin=IC1-13
+Removed Pin From Net: NetName=MERILNIK_GLASNOSTI Pin=IC1-14
+Removed Pin From Net: NetName=DETEKTOR ŽIC Pin=IC1-15
+Removed Pin From Net: NetName=RF_DETEKTOR Pin=IC1-16
+Removed Pin From Net: NetName=TIPKA Pin=IC1-17
+Removed Pin From Net: NetName=NetIC1_18 Pin=LED1-1
+Removed Pin From Net: NetName=NetIC1_19 Pin=LED1-2
+Removed Pin From Net: NetName=NetIC1_20 Pin=LED1-3
+Removed Pin From Net: NetName=NetIC1_21 Pin=LED1-4
+Removed Pin From Net: NetName=NetIC1_22 Pin=LED1-5
+Added Pin To Net: NetName=DETEKTOR ŽIC Pin=IC1-1
+Added Pin To Net: NetName=RF_DETEKTOR Pin=IC1-2
+Added Pin To Net: NetName=TIPKA Pin=IC1-3
+Added Pin To Net: NetName=DETEKTOR VLAŽNOSTI Pin=IC1-23
+Added Pin To Net: NetName=MERILNIK_GLASNOSTI Pin=IC1-24
+Added Pin To Net: NetName=NetIC1_18 Pin=LED1-6
+Added Pin To Net: NetName=NetIC1_19 Pin=LED1-7
+Added Pin To Net: NetName=NetIC1_20 Pin=LED1-8
+Added Pin To Net: NetName=NetIC1_21 Pin=LED1-9
+Added Pin To Net: NetName=NetIC1_22 Pin=LED1-10
+Added Pin To Net: NetName=NetIC1_13 Pin=IC1-13
+Added Pin To Net: NetName=NetIC1_13 Pin=LED1-1
+Added Net: Name=NetIC1_13
+Added Pin To Net: NetName=NetIC1_14 Pin=IC1-14
+Added Pin To Net: NetName=NetIC1_14 Pin=LED1-2
+Added Net: Name=NetIC1_14
+Added Pin To Net: NetName=NetIC1_15 Pin=IC1-15
+Added Pin To Net: NetName=NetIC1_15 Pin=LED1-3
+Added Net: Name=NetIC1_15
+Added Pin To Net: NetName=NetIC1_16 Pin=IC1-16
+Added Pin To Net: NetName=NetIC1_16 Pin=LED1-4
+Added Net: Name=NetIC1_16
+Added Pin To Net: NetName=NetIC1_17 Pin=IC1-17
+Added Pin To Net: NetName=NetIC1_17 Pin=LED1-5
+Added Net: Name=NetIC1_17

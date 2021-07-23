@@ -1,0 +1,54 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=LED? NewDesignator=LED1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=R? NewDesignator=R26
+Change Component Designator: OldDesignator=R? NewDesignator=R27
+Change Component Designator: OldDesignator=R? NewDesignator=R28
+Change Component Designator: OldDesignator=R? NewDesignator=R29
+Change Component Designator: OldDesignator=R? NewDesignator=R30
+Change Component Designator: OldDesignator=R? NewDesignator=R31
+Change Component Designator: OldDesignator=R? NewDesignator=R32
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=R? NewDesignator=R34
+Change Component Designator: OldDesignator=R? NewDesignator=R35
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP3
+Change Component Designator: OldDesignator=TP? NewDesignator=TP6
+Change Component Designator: OldDesignator=TP? NewDesignator=TP10
+Change Component Designator: OldDesignator=TP? NewDesignator=TP11
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC15_2
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC17_2
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD2_A
+Change Net Name : Old Net Name=NetLED?_11 New Net Name=NetLED1_11
+Change Net Name : Old Net Name=NetLED?_12 New Net Name=NetLED1_12
+Change Net Name : Old Net Name=NetLED?_13 New Net Name=NetLED1_13
+Change Net Name : Old Net Name=NetLED?_14 New Net Name=NetLED1_14
+Change Net Name : Old Net Name=NetLED?_15 New Net Name=NetLED1_15
+Change Net Name : Old Net Name=NetLED?_16 New Net Name=NetLED1_16
+Change Net Name : Old Net Name=NetLED?_17 New Net Name=NetLED1_17
+Change Net Name : Old Net Name=NetLED?_18 New Net Name=NetLED1_18
+Change Net Name : Old Net Name=NetLED?_19 New Net Name=NetLED1_19
+Change Net Name : Old Net Name=NetLED?_20 New Net Name=NetLED1_20
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=C17-1
+Added Pin To Net: NetName=NetC6_2 Pin=R33-2
+Added Pin To Net: NetName=NetC6_2 Pin=U2-2
+Added Net: Name=NetC6_2
