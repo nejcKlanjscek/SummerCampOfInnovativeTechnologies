@@ -1,0 +1,28 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Tabor inovativnih tehnologij 2021.PcbDoc   23/07/2021  11:51:06
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Tabor inovativnih tehnologij 2021-RoundHoles.TXT
+ASCII SlotHoles File : Tabor inovativnih tehnologij 2021-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             31        PTH        0.00inch (0.00mm)
+T2      24mil (0.599mm)                                           Round             46        PTH        0.00inch (0.00mm)
+T3      26mil (0.65mm)                                            Round             24        PTH        0.00inch (0.00mm)
+T4      28mil (0.701mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T5      28mil (0.711mm)                                           Round             8         PTH        0.00inch (0.00mm)
+T6      30mil (0.759mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T7      32mil (0.8mm)                                             Round             18        PTH        0.00inch (0.00mm)
+T8      32mil (0.8mm)                                             Slot              4         PTH        0.00inch (0.00mm)
+T9      34mil (0.861mm)                                           Round             14        PTH        0.00inch (0.00mm)
+T10     35mil (0.899mm)                                           Round             24        PTH        0.00inch (0.00mm)
+T11     38mil (0.965mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T12     39mil (1.001mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T13     42mil (1.067mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T14     63mil (1.6mm)                                             Round             5         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              195
+
+Total Processing Time (hh:mm:ss) : 00:00:00

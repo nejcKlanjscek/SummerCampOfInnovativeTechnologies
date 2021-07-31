@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
-OutputPath=Project Outputs for Tabor inovativnih tehnologij 2021
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -117,190 +117,126 @@ DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\NC Drill\Tabor inovativnih tehnologij 2021-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\NC Drill\Tabor inovativnih tehnologij 2021-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\NC Drill\Tabor inovativnih tehnologij 2021.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument10]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument12]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument18]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument19]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument14]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument16]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument24]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument25]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument18]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument20]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument30]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument31]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument22]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument34]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument24]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument37]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument26]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument28]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\NC Drill\Tabor inovativnih tehnologij 2021.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument43]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument30]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.REP
 DItemRevisionGUID=
 
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.REP
-DItemRevisionGUID=
-
-[GeneratedDocument46]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.REP
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument32]
 DocumentPath=..\Gerbers\Tabor inovativnih tehnologij 2021.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Gerber\Tabor inovativnih tehnologij 2021.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument49]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for Tabor inovativnih tehnologij 2021\Tabor inovativnih tehnologij 2021.RUL
 DItemRevisionGUID=
 
@@ -355,12 +291,12 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for Tabor inovativnih tehnologij 2021
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -466,7 +402,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -544,7 +480,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -566,7 +502,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -646,7 +582,7 @@ Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -695,7 +631,7 @@ OutputDefault8=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -803,7 +739,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -847,7 +783,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -908,7 +844,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=PDFCreator
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
