@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ASCII"?>
+<device:XMLDevice xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:device="http://www.silabs.com/ss/hwconfig/document/device.ecore" name="EFM8UB11F16G-C-QSOP24" partId="mcu.8051.efm8.ub1.efm8ub11f16g-c-qsop24" version="4.0.0" contextId="%DEFAULT%">
+  <mode name="DefaultMode">
+    <property object="ADC_0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="ADC_0" propertyId="adc.configuration.gaincontrol" value="1x gain"/>
+    <property object="ADC_0" propertyId="adc.control.enableadc" value="Enabled"/>
+    <property object="ADC_0" propertyId="adc.control.enablecommonmodebuffer" value="Disabled"/>
+    <property object="ADC_0" propertyId="adc.control.startofconversion" value="Timer 2 overflow"/>
+    <property object="ADC_0" propertyId="adc.multiplexerselection.positiveinputselection" value="ADC0.1 (P0.1)"/>
+    <property object="ADC_0" propertyId="adc.view.view" value="Advanced"/>
+    <property object="DefaultMode" propertyId="mode.diagramLocation" value="100, 100"/>
+    <property object="EXTINT_0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="EXTINT_0" propertyId="extint.int0int1configuration.int0portpinselection" value="P0.0"/>
+    <property object="HFOSC_0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="INTERRUPT_0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="INTERRUPT_0" propertyId="interrupt.extendedinterruptenable1.enableadc0conversioncompleteinterrupt" value="Enabled"/>
+    <property object="INTERRUPT_0" propertyId="interrupt.interruptenable.enableallinterrupts" value="Enabled"/>
+    <property object="INTERRUPT_0" propertyId="interrupt.interruptenable.enableexternal0interrupt" value="Enabled"/>
+    <property object="INTERRUPT_0" propertyId="interrupt.interruptenable.enabletimer2interrupt" value="Enabled"/>
+    <property object="P0.0" propertyId="ports.settings.label" value="Tipka"/>
+    <property object="P0.0" propertyId="ports.settings.matchvalue" value="Low"/>
+    <property object="P0.1" propertyId="ports.settings.inputmode" value="Analog"/>
+    <property object="P0.1" propertyId="ports.settings.iomode" value="Analog I/O"/>
+    <property object="P0.1" propertyId="ports.settings.label" value="RF"/>
+    <property object="P0.1" propertyId="ports.settings.skip" value="Skipped"/>
+    <property object="P0.2" propertyId="ports.settings.inputmode" value="Analog"/>
+    <property object="P0.2" propertyId="ports.settings.iomode" value="Analog I/O"/>
+    <property object="P0.2" propertyId="ports.settings.label" value="Vodnik"/>
+    <property object="P0.2" propertyId="ports.settings.skip" value="Skipped"/>
+    <property object="P0.3" propertyId="ports.settings.inputmode" value="Analog"/>
+    <property object="P0.3" propertyId="ports.settings.iomode" value="Analog I/O"/>
+    <property object="P0.3" propertyId="ports.settings.label" value="Glasnost"/>
+    <property object="P0.3" propertyId="ports.settings.skip" value="Skipped"/>
+    <property object="P0.4" propertyId="ports.settings.inputmode" value="Analog"/>
+    <property object="P0.4" propertyId="ports.settings.iomode" value="Analog I/O"/>
+    <property object="P0.4" propertyId="ports.settings.label" value="Vlaznost"/>
+    <property object="P0.4" propertyId="ports.settings.skip" value="Skipped"/>
+    <property object="P0.5" propertyId="ports.settings.iomode" value="Digital Push-Pull Output"/>
+    <property object="P0.5" propertyId="ports.settings.outputmode" value="Push-pull"/>
+    <property object="P0.6" propertyId="ports.settings.iomode" value="Digital Push-Pull Output"/>
+    <property object="P0.6" propertyId="ports.settings.outputmode" value="Push-pull"/>
+    <property object="P0.7" propertyId="ports.settings.iomode" value="Digital Push-Pull Output"/>
+    <property object="P0.7" propertyId="ports.settings.outputmode" value="Push-pull"/>
+    <property object="P1.0" propertyId="ports.settings.iomode" value="Digital Push-Pull Output"/>
+    <property object="P1.0" propertyId="ports.settings.outputmode" value="Push-pull"/>
+    <property object="P1.1" propertyId="ports.settings.iomode" value="Digital Push-Pull Output"/>
+    <property object="P1.1" propertyId="ports.settings.outputmode" value="Push-pull"/>
+    <property object="P1.2" propertyId="ports.settings.iomode" value="Digital Push-Pull Output"/>
+    <property object="P1.2" propertyId="ports.settings.outputmode" value="Push-pull"/>
+    <property object="P1.3" propertyId="ports.settings.iomode" value="Digital Push-Pull Output"/>
+    <property object="P1.3" propertyId="ports.settings.outputmode" value="Push-pull"/>
+    <property object="P1.4" propertyId="ports.settings.iomode" value="Digital Push-Pull Output"/>
+    <property object="P1.4" propertyId="ports.settings.outputmode" value="Push-pull"/>
+    <property object="P1.5" propertyId="ports.settings.iomode" value="Digital Push-Pull Output"/>
+    <property object="P1.5" propertyId="ports.settings.outputmode" value="Push-pull"/>
+    <property object="P1.6" propertyId="ports.settings.iomode" value="Digital Push-Pull Output"/>
+    <property object="P1.6" propertyId="ports.settings.outputmode" value="Push-pull"/>
+    <property object="P3.1" propertyId="ports.settings.latch" value="Low"/>
+    <property object="PBCFG_0" propertyId="pbcfg.settings.enablecrossbar" value="Enabled"/>
+    <property object="TIMER01_0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="TIMER16_2" propertyId="ABPeripheral.included" value="true"/>
+    <property object="TIMER16_2" propertyId="timer16.control.runcontrol" value="Start"/>
+    <property object="TIMER16_2" propertyId="timer16.control.timerrunningstate" value="Timer is Running"/>
+    <property object="TIMER16_2" propertyId="timer16.initandreloadvalue.targetoverflowfrequency" value="40"/>
+    <property object="TIMER16_2" propertyId="timer16.initandreloadvalue.timerreloadvalue" value="59156"/>
+    <property object="TIMER16_2" propertyId="timer16.reloadhighbyte.reloadhighbyte" value="231"/>
+    <property object="TIMER16_2" propertyId="timer16.reloadlowbyte.reloadlowbyte" value="20"/>
+    <property object="TIMER16_3" propertyId="ABPeripheral.included" value="true"/>
+    <property object="TIMER16_4" propertyId="ABPeripheral.included" value="true"/>
+    <property object="TIMER_SETUP_0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="VREF_0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="VREF_0" propertyId="vref.hidden.voltagereferenceselect" value="VDD pin"/>
+    <property object="VREF_0" propertyId="vref.voltagereferencecontrol.selectvoltagereference" value="Unregulated VDD"/>
+    <property object="WDT_0" propertyId="ABPeripheral.included" value="true"/>
+    <property object="WDT_0" propertyId="wdt.watchdogcontrol.wdtenable" value="Disable"/>
+  </mode>
+  <modeTransition>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.source" value="RESET"/>
+    <property object="RESET &#x2192; DefaultMode" propertyId="modeTransition.target" value="DefaultMode"/>
+  </modeTransition>
+</device:XMLDevice>
